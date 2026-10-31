@@ -7,20 +7,20 @@
 </div>
 
 
-<p align="center">Welcome on my github page !</p>
+<h1 align="center">Welcome on my github page !</h1>
 
 
 <h2>About me</h2>
 
 ### What I study 
 
-<p align="center">I'm a second year **Software Engineering** student.
+<p align="center">I'm a second year <strong>Software Engineering** student.</strong>
 
 ### What I'm learning now
 
-<p align="center">I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.</p>
+<p>I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.</p>
 
-<p align="center">I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.</p>
+<p>I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.</p>
 
 ### My goals
 
@@ -36,7 +36,7 @@
 
 <h3 align="center">Fullstack development</h3>
 
-<p>The foundation of every website: I’m using them to build my first small web projects and to give my backend work a visible interface.</p>
+<p align="center">The foundation of every website: I’m using them to build my first small web projects and to give my backend work a visible interface.</p>
 
 <div align="center">
 
