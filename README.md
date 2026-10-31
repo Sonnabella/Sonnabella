@@ -14,11 +14,12 @@
 
 ### What I study 
 
-<p align="center">I'm a second year <strong>Software Engineering** student.</strong>
+<p align="center">I'm a second year <strong>Software Engineering</strong> student.</p>
+
 
 ### What I'm learning now
 
-<p>I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.</p>
+<p>I'm also learning <h2>Machine Learning</h2> on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.</p>
 
 <p>I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.</p>
 
