@@ -6,12 +6,11 @@
 
 </div>
 
-# Hi , I'm Hilary,
 
 Welcome on my github page !
 
 
-## About me
+<h2>About me</h2>
 
 ### What I study 
 
@@ -33,13 +32,17 @@ I currently learn OOP programming with Java and C++, and I will share some proje
 
 - Start my first software development internship, or send at least ten applications by December 15, 2026.
 
-## What I work with 
+<h2>What I work with</h3> 
 
-### Fullstack development
+<h3 align="center">Fullstack development</h3>
 
 The foundation of every website: I’m using them to build my first small web projects and to give my backend work a visible interface.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<div align="center">[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</div>
+
+<h2>Data and AI</h3>
+
+
 
 
 <div align="center">
