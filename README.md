@@ -7,20 +7,20 @@
 </div>
 
 
-<h5>Welcome on my github page !</h3>
+<p align="center">Welcome on my github page !</p>
 
 
 <h2>About me</h2>
 
 ### What I study 
 
-I'm a second year **Software Engineering** student.
+<p align="center">I'm a second year **Software Engineering** student.
 
 ### What I'm learning now
 
-I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.
+<p align="center">I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.</p>
 
-I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.
+<p align="center">I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.</p>
 
 ### My goals
 
