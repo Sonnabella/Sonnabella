@@ -7,7 +7,7 @@
 </div>
 
 
-Welcome on my github page !
+<h5>Welcome on my github page !</h3>
 
 
 <h2>About me</h2>
@@ -18,13 +18,13 @@ I'm a second year **Software Engineering** student.
 
 ### What I'm learning now
 
-I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionnate about  Artificial  intelligence and Data Science.
+I'm also learning *Machine Learning* on Datacamp through a scholarship I received from iSHEERO x DataCamp program. I'm passionate about  Artificial  Intelligence and Data Science.
 
-I currently learn OOP programming with Java and C++, and I will share some project i do in this case 
+I currently learning object-oriented programming with Java and C++, and I'll share a project i build along the way.
 
 ### My goals
 
-- Finish the Machine Learning course on DataCamp by december
+- Finish the Machine Learning course on DataCamp by December
 
 - Build and publish four small web projects, from a static page to a basic e-commerce app.
 
@@ -36,11 +36,57 @@ I currently learn OOP programming with Java and C++, and I will share some proje
 
 <h3 align="center">Fullstack development</h3>
 
-The foundation of every website: I’m using them to build my first small web projects and to give my backend work a visible interface.
+<p>The foundation of every website: I’m using them to build my first small web projects and to give my backend work a visible interface.</p>
 
-<div align="center">[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/HTML)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</div>
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=White)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+</div>
 
 <h2>Data and AI</h3>
+
+<p align="center">Python and SQL are my starting point for working with data: I’m learning them through DataCamp to move toward machine learning.</p>
+
+<div align="center">
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+
+</div>
+
+<h3 align="center">Tools</h3>
+
+<p>The tools I use every day to write, version and share my code.<p>
+
+<div align="center">
+
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://ubuntu.com) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com)
+
+</div>
+
+<h3 align="center">Programming fundamentals</h3>
+
+<p align="center">Languages from my university courses: they teach me how memory, data structures and object-oriented design work.</p>
+
+<div align="center">
+
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.cppreference.com/w/c) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://dev.java)
+
+</div>
+
+
+<h2 align="center">Let's connect</h2>
+
+<p align="center">Open to remote opportunities. Feel free to reach out.</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonnabella-hilary-diallo-979637391/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61593692361271) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sonnabellad@gmail.com)
+
+</div>
+
+
 
 
 
