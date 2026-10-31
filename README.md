@@ -14,7 +14,7 @@
 
 ### What I study 
 
-<p align="center">I'm a second year <strong>Software Engineering</strong> student.</p>
+<p>I'm a second year <strong>Software Engineering</strong> student.</p>
 
 
 ### What I'm learning now
@@ -45,7 +45,7 @@
 
 </div>
 
-<h2>Data and AI</h3>
+<h2 align="center">Data and AI</h3>
 
 <p align="center">Python and SQL are my starting point for working with data: I’m learning them through DataCamp to move toward machine learning.</p>
 
