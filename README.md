@@ -87,6 +87,14 @@
 
 </div>
 
+<h2 align="center">Activity</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sonnabella" alt="GitHub streak stats" />
+
+</div>
+
 
 
 
