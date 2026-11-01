@@ -14,7 +14,7 @@
 <h1 align="center">Welcome on my github page !</h1>
 
 
-<h2>About me</h2>
+## About me
 
 ### What I study 
 
@@ -37,7 +37,7 @@
 
 - Start my first software development internship, or send at least ten applications by December 15, 2026.
 
-<h2>What I work with</h3> 
+## What I work with 
 
 <h3 align="center">Fullstack development</h3>
 
